@@ -19,6 +19,7 @@
 <!--START_SECTION:my_read-->
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
+| [《全世界人民都知道》](https://github.com/chenzaichun/2025/issues/8#issuecomment-2614184918) | 2025-01-26 | 2025-01-26 | 
 
 <!--END_SECTION:my_read-->
 
