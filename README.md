@@ -7,7 +7,7 @@
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
 | [哑铃卧推](https://github.com/chenzaichun/2025/issues/5) | 59 (个) | 0 | NO |
-| [哑铃侧平举](https://github.com/chenzaichun/2025/issues/4) | 180 (个) | 0 | NO |
+| [哑铃侧平举](https://github.com/chenzaichun/2025/issues/4) | 420 (个) | 0 | NO |
 
 <!--END_SECTION:my_number-->
 
