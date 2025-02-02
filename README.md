@@ -22,6 +22,7 @@
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
 | [《全世界人民都知道》](https://github.com/chenzaichun/2025/issues/8#issuecomment-2614184918) | 2025-01-26 | 2025-01-26 | 
+| [《小米创业思考》](https://github.com/chenzaichun/2025/issues/8#issuecomment-2629185778) | 2025-02-02 | 2025-02-02 | 
 
 <!--END_SECTION:my_read-->
 
