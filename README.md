@@ -8,7 +8,7 @@
  | ---- | ---- | ---- | ---- |
 | [哑铃卧推](https://github.com/chenzaichun/2025/issues/5) | 221 (个) | 0 | NO |
 | [哑铃划船](https://github.com/chenzaichun/2025/issues/15) | 96 (个) | 0 | NO |
-| [哑铃侧平举](https://github.com/chenzaichun/2025/issues/4) | 660 (个) | 0 | NO |
+| [哑铃侧平举](https://github.com/chenzaichun/2025/issues/4) | 900 (个) | 0 | NO |
 
 <!--END_SECTION:my_number-->
 
