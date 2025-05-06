@@ -1,5 +1,4 @@
 PyGithub
 requests
 pendulum
-github
 PyGithub==1.55
