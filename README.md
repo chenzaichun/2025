@@ -1,5 +1,5 @@
-# 2026
-关于我的2026的一些记录。代码来自 [yihong0618](https://github.com/yihong0618/2021), 我做了自己的修改，感谢 `yihong0618`
+# 2025
+关于我的2025的一些记录。代码来自 [yihong0618](https://github.com/yihong0618/2021), 我做了自己的修改，感谢 `yihong0618`
 
 ## 我的数字
 
@@ -9,7 +9,7 @@
 
 ## 跑步
 
-![](https://raw.githubusercontent.com/chenzaichun/running_page/master/assets/github_2026.svg)
+![](https://raw.githubusercontent.com/chenzaichun/running_page/master/assets/github_2025.svg)
 
 
 ## 读书
